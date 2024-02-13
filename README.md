@@ -1,0 +1,16 @@
+The original dataset used for this analysis was downloaded from: https://www.kaggle.com/datasets/maheshmani13/world-population-growth/data
+
+
+Dataset Information:
+
+Title: World Population Growth Dataset
+Version: 1.0
+Format: CSV (Comma-Separated Values)
+Size: 4kb
+columns:(dataset was slightly modified by changing some column names)
+
+	-Year: The calendar year for which population data is recorded. (1951 to 2023)
+	-Population: The total population count for the each year.
+	-Annual_growth_%: The annual percentage growth rate of the population, representing a percentage change in 			population size from one year to the next.
+	-Annual_growth: The actual numerical change in population from one year to the next.
+	-Density: Population density, measured as the number of individuals per square kilometer of land area.
